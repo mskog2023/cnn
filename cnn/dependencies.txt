@@ -1,0 +1,6 @@
+api
+ python_multipart
+
+
+kube-dns
+https://stackoverflow.com/questions/50725904/minikube-kubernetes-two-pods-and-service
